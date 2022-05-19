@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Value-Hasi
+- 👋 Hi, I’m Boring Liu
 - 👀 I’m interested in ...althromatics  
 - 🌱 I’m currently learning ...Java Python and C++
 - 💞️ I’m looking to collabornoate on ...no
