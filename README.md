@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Boring Liu
-- 👀 I’m interested in ...althromatics  
+- 👋 Hi, I’m LuMing
+- 👀 I’m interested in ...althgromatics  
 - 🌱 I’m currently learning ...Java Python and C++
 - 💞️ I’m looking to collabornoate on ...no
 - 📫 How to reach me ...
